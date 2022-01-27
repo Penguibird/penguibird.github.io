@@ -1,0 +1,2 @@
+(window.webpackJsonp=window.webpackJsonp||[]).push([[8],{Yzop:function(n,e,t){"use strict";t.r(e);var r=t("q1tI"),l=t("9Dj+"),o=["children"];e.default=function(n){n.children,function(n,e){if(null==n)return{};var t,r,l={},o=Object.keys(n);for(r=0;r<o.length;r++)t=o[r],e.indexOf(t)>=0||(l[t]=n[t])}(n,o);return r.createElement(l.a,null,r.createElement("h1",null,"Coming Soon"))}}}]);
+//# sourceMappingURL=component---src-pages-trippi-tsx-4e9ee5a897bfb303a912.js.map
